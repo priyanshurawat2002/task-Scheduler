@@ -1,0 +1,15 @@
+# Go build files
+bin/
+*.exe
+*.out
+*.test
+
+# Dependency directories
+vendor/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
